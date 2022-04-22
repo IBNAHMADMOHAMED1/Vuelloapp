@@ -1,0 +1,35 @@
+{
+  "title": "Add titte",
+  "last_modified": "24/04/2022, 06:42:32",
+  "containers": [
+    {
+      "id": 1,
+      "name": "Introduction",
+      "is_editing_container": false,
+      "is_adding_card": false
+    },
+    {
+      "id": 2,
+      "name": "Todo",
+      "is_editing_container": false,
+      "is_adding_card": false
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "id_container": 1,
+      "title": "About me",
+      "content": "Yah i am mohamed ibnahmad student at Youcode school, i love to code and i love to learn new things",
+      "is_editing_card": false
+    },
+    {
+      "id": 2,
+      "id_container": 1,
+      "title": "About Data",
+      "content": "you can find data about me in my github or gitlab",
+      
+      "is_editing_card": false
+    }
+  ]
+}
